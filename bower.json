@@ -1,0 +1,17 @@
+{
+    "name": "skranji-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Neapolitan"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/skranji-bower.git"
+    },
+    "description": "Skranji font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
